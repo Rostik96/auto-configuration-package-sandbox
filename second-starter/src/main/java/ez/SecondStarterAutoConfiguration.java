@@ -1,4 +1,4 @@
-package ru;
+package ez;
 
 import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.boot.autoconfigure.AutoConfigurationPackage;

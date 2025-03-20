@@ -18,6 +18,6 @@ class AppTests {
 
 	@Test
 	void contextLoads() {
-		assertThat(jpaRepositories).hasSize(2);
+		assertThat(jpaRepositories).hasSize(3);
 	}
 }

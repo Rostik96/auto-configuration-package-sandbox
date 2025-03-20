@@ -1,4 +1,4 @@
-package ru.transport;
+package ez.transport;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

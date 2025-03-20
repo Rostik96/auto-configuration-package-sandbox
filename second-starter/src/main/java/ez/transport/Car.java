@@ -1,4 +1,4 @@
-package ru.transport;
+package ez.transport;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
