@@ -1,0 +1,10 @@
+services:
+  jpa-sandbox:
+    container_name: jpa-sandbox_postgres
+    image: postgres
+    environment:
+      POSTGRES_DB: 'jpa-sandbox'
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+      - '5432'
+    restart: always
