@@ -1,4 +1,4 @@
-package dev.rost.starter.people;
+package com.rost.starter.people;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

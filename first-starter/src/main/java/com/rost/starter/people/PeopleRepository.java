@@ -1,4 +1,4 @@
-package dev.rost.starter.people;
+package com.rost.starter.people;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
