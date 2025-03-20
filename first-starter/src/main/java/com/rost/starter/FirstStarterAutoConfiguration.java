@@ -5,4 +5,4 @@ import org.springframework.boot.autoconfigure.AutoConfigurationPackage;
 
 @AutoConfiguration
 @AutoConfigurationPackage
-public class StarterAutoConfiguration {}
+public class FirstStarterAutoConfiguration {}
